@@ -1,0 +1,28 @@
+{
+  "name": "jendo/design-pattern",
+  "description": "Design patterns examples in PHP",
+  "authors": [
+    {
+      "name": "jendo",
+      "email": "jenis.michal@gmail.com"
+    }
+  ],
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "AppTest\\": "tests"
+      }
+    }
+  },
+  "minimum-stability": "stable"
+}
