@@ -1,1 +1,1 @@
-# docker-wamp
+# Design pattern's examples in PHP
