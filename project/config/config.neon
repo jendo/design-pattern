@@ -2,3 +2,5 @@ parameters:
 
 services:
     - App\Application
+    - App\DesignPattern\Creational\Factory\FactoryMethod\DogShelter
+    - App\DesignPattern\Creational\Factory\FactoryMethod\CatShelter
